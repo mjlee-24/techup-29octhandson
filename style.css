@@ -1,0 +1,20 @@
+/* h1 {
+    color:blueviolet;
+    background-color: yellow;
+    text-align: center;
+    border: 5px black solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 100px;   
+} */
+
+h1{
+    color: red;
+}
+.title{
+    background-color:aliceblue;
+}
+
+#important{
+    color:blueviolet
+}
