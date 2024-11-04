@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
     color: magenta;
     background-color: yellow;
     text-align: center;
@@ -6,6 +6,9 @@ h1 {
     padding-top: 20px;
     padding-bottom: 20px;
     margin-bottom: 100px;   
+} */
+h1{
+    color: red
 }
 .title{
     background-color:aliceblue;
